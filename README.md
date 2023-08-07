@@ -2,11 +2,11 @@
 python -m venv venv1
 
 # Ativar venv
-    cd venv1
-    cd Scripts
-    activate
-    cd ..
-    cd ..
+cd venv1
+cd Scripts
+activate
+cd ..
+cd ..
 
 # Instalar Django Rest Framework
 pip install django djangorestframework
